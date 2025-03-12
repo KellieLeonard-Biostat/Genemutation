@@ -86,8 +86,11 @@ Figure 7. Distribution of mutation frequency
 
 **Analysis**
 The analysis reveals several important insights:
+
 •	High Mutation Frequencies: Genes like TP53, BRCA1, and KRAS are frequently mutated across different cancer types. These genes are well-known for their roles in tumour suppression, DNA repair, and oncogenesis, making them key targets for cancer research and treatment.
+
 •	Mutation Type Distribution: Substitution mutations are the most common type across all cancer types. This is consistent with studies that link substitution mutations to environmental exposures such as UV radiation and carcinogens. The presence of Insertion and Deletion mutations in specific cancers suggests that these mutation types may be associated with particular molecular mechanisms or environmental factors.
+
 •	Cancer-Type Specificity: Certain genes are more frequently mutated in specific cancers. For example, BRCA1 mutations are more prevalent in Breast cancer, while KRAS mutations are common in Pancreatic cancer. This highlights the potential for targeted genetic testing and personalised treatment strategies based on mutation profiles.
  
 
